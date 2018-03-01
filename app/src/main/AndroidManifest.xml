@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.ufmg.coltec.e02activity">
+    package="br.ufmg.coltec.tp.e02">
 
     <application
         android:allowBackup="true"
