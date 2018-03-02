@@ -1,0 +1,1 @@
+03-02 12:00:56.555 6940-6940/zen.hello_word I/zen.hello_word.MainActivity: VALEU!
