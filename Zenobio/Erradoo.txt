@@ -1,0 +1,2 @@
+03-02 12:00:45.011 6940-6940/zen.hello_word E/zen.hello_word.MainActivity: Usário inválido - Admi
+03-02 12:00:48.825 6940-6940/zen.hello_word E/zen.hello_word.MainActivity: Senha inválida - asd
