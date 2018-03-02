@@ -1,0 +1,7 @@
+03-02 13:23:36.294 22748-22748/? I/Logado Com Sucesso: Logado Com Sucesso
+03-02 13:23:36.318 22748-22748/? I/onPause: onPause Ativado
+03-02 13:23:36.358 22748-22748/? I/OnCreate: OnCreate Ativado
+03-02 13:23:36.371 22748-22748/? I/onStart: onStart Ativado
+03-02 13:23:36.372 22748-22748/? I/onResume: onResume Ativado
+03-02 13:23:36.447 22748-22767/? D/OpenGLRenderer: endAllActiveAnimators on 0x96605680 (RippleDrawable) with handle 0x96141490
+03-02 13:23:36.785 22748-22748/? I/onStop: onStop Ativado

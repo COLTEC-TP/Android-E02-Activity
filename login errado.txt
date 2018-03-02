@@ -1,0 +1,1 @@
+03-02 13:24:51.537 22748-22748/? E/login error: usuario ou senha invalidos
