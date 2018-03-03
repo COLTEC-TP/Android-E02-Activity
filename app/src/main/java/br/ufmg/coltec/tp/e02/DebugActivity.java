@@ -16,7 +16,7 @@ public class DebugActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.d(LOG_TAG, getClassName() + " Método onCreate() foi chamado.");
+        Log.i(LOG_TAG, getClassName() + " Método onCreate() foi chamado.");
     }
 
     @Override
@@ -28,7 +28,7 @@ public class DebugActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         super.onStop();
-        Log.d(LOG_TAG, getClassName() + " Método onStop() foi chamado.");
+        Log.i(LOG_TAG, getClassName() + " Método onStop() foi chamado.");
     }
 
     @Override
@@ -40,19 +40,19 @@ public class DebugActivity extends AppCompatActivity {
     @Override
     protected void onRestart() {
         super.onRestart();
-        Log.d(LOG_TAG, getClassName() + " Método onRestart() foi chamado.");
+        Log.i(LOG_TAG, getClassName() + " Método onRestart() foi chamado.");
     }
 
     @Override
     protected void onPause() {
         super.onPause();
-        Log.d(LOG_TAG, getClassName() + " Método onPause() foi chamado.");
+        Log.i(LOG_TAG, getClassName() + " Método onPause() foi chamado.");
     }
 
     @Override
     protected void onResume() {
         super.onResume();
-        Log.d(LOG_TAG, getClassName() + " Método onResume() foi chamado.");
+        Log.i(LOG_TAG, getClassName() + " Método onResume() foi chamado.");
     }
 
     @NonNull
