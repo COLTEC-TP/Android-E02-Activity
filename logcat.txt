@@ -1,0 +1,6 @@
+﻿03-03 07:02:24.573 1762-1762/? I/DebugActivity: .MainActivity Método onStart() foi chamado.
+03-03 07:02:45.836 1762-1762/? I/MainActivity: Login sucedido
+03-03 07:02:45.909 1762-1762/? I/DebugActivity: .WelcomeActivity Método onStart() foi chamado.
+03-03 07:02:52.139 1762-1762/? I/DebugActivity: .MainActivity Método onStart() foi chamado.
+03-03 07:02:52.658 1762-1762/? I/DebugActivity: .WelcomeActivity Método onDestroy() foi chamado.
+03-03 07:03:03.901 1762-1762/? I/MainActivity: Senha ou email incorreto

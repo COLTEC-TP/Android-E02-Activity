@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class WelcomeActivity extends Activity {
+public class WelcomeActivity extends DebugActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -16,25 +16,25 @@ public class DebugActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.d(LOG_TAG, getClassName() + "Método onCreate() foi chamado.");
+        Log.d(LOG_TAG, getClassName() + " Método onCreate() foi chamado.");
     }
 
     @Override
     protected void onStart() {
         super.onStart();
-        Log.i(LOG_TAG, getClassName() + "Método onStart() foi chamado.");
+        Log.i(LOG_TAG, getClassName() + " Método onStart() foi chamado.");
     }
 
     @Override
     protected void onStop() {
         super.onStop();
-        Log.d(LOG_TAG, getClassName() + "Método onStop() foi chamado.");
+        Log.d(LOG_TAG, getClassName() + " Método onStop() foi chamado.");
     }
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        Log.i(LOG_TAG, getClassName() + "Método onDestroy() foi chamado.");
+        Log.i(LOG_TAG, getClassName() + " Método onDestroy() foi chamado.");
     }
 
     @Override
