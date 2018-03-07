@@ -1,0 +1,28 @@
+03-07 17:00:56.871 6795-6795/? I/zygote: Not late-enabling -Xcheck:jni (already on)
+03-07 17:00:56.901 6795-6795/? W/zygote: Unexpected CPU variant for X86 using defaults: x86
+03-07 17:00:57.094 6795-6795/? I/InstantRun: starting instant run server: is main process
+03-07 17:00:57.115 6795-6795/br.ufmg.coltec.e02activity I/br.ufmg.coltec.e02activity.MainActivity: onCreate
+03-07 17:00:57.221 6795-6795/br.ufmg.coltec.e02activity I/br.ufmg.coltec.e02activity.MainActivity: onStart
+03-07 17:00:57.227 6795-6795/br.ufmg.coltec.e02activity I/br.ufmg.coltec.e02activity.MainActivity: onResume
+03-07 17:00:57.238 6795-6814/br.ufmg.coltec.e02activity D/OpenGLRenderer: HWUI GL Pipeline
+                                                                          
+                                                                          [ 03-07 17:00:57.291  6795: 6814 D/         ]
+                                                                          HostConnection::get() New Host Connection established 0x941e9180, tid 6814
+03-07 17:00:57.293 6795-6814/br.ufmg.coltec.e02activity I/zygote: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+03-07 17:00:57.293 6795-6814/br.ufmg.coltec.e02activity I/OpenGLRenderer: Initialized EGL, version 1.4
+03-07 17:00:57.293 6795-6814/br.ufmg.coltec.e02activity D/OpenGLRenderer: Swap behavior 1
+03-07 17:00:57.294 6795-6814/br.ufmg.coltec.e02activity W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+03-07 17:00:57.294 6795-6814/br.ufmg.coltec.e02activity D/OpenGLRenderer: Swap behavior 0
+03-07 17:00:57.308 6795-6814/br.ufmg.coltec.e02activity D/EGL_emulation: eglCreateContext: 0x9453c680: maj 2 min 0 rcv 2
+03-07 17:00:57.356 6795-6814/br.ufmg.coltec.e02activity D/EGL_emulation: eglMakeCurrent: 0x9453c680: ver 2 0 (tinfo 0x94517c30)
+03-07 17:00:57.448 6795-6814/br.ufmg.coltec.e02activity D/EGL_emulation: eglMakeCurrent: 0x9453c680: ver 2 0 (tinfo 0x94517c30)
+03-07 17:00:57.617 6795-6795/br.ufmg.coltec.e02activity I/AssistStructure: Flattened final assist data: 1932 bytes, containing 1 windows, 6 views
+03-07 17:01:10.455 6795-6800/br.ufmg.coltec.e02activity I/zygote: Do partial code cache collection, code=28KB, data=27KB
+03-07 17:01:10.455 6795-6800/br.ufmg.coltec.e02activity I/zygote: After code cache collection, code=28KB, data=27KB
+03-07 17:01:10.455 6795-6800/br.ufmg.coltec.e02activity I/zygote: Increasing code cache capacity to 128KB
+03-07 17:01:10.567 6795-6814/br.ufmg.coltec.e02activity D/EGL_emulation: eglMakeCurrent: 0x9453c680: ver 2 0 (tinfo 0x94517c30)
+03-07 17:01:10.579 6795-6814/br.ufmg.coltec.e02activity D/EGL_emulation: eglMakeCurrent: 0x9453c680: ver 2 0 (tinfo 0x94517c30)
+03-07 17:01:24.681 6795-6800/br.ufmg.coltec.e02activity I/zygote: Do partial code cache collection, code=61KB, data=58KB
+03-07 17:01:24.681 6795-6800/br.ufmg.coltec.e02activity I/zygote: After code cache collection, code=61KB, data=58KB
+03-07 17:01:24.681 6795-6800/br.ufmg.coltec.e02activity I/zygote: Increasing code cache capacity to 256KB
+

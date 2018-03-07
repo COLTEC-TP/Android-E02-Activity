@@ -1,0 +1,38 @@
+03-07 17:02:47.060 6903-6903/? I/zygote: Not late-enabling -Xcheck:jni (already on)
+03-07 17:02:47.090 6903-6903/? W/zygote: Unexpected CPU variant for X86 using defaults: x86
+03-07 17:02:47.196 6903-6903/br.ufmg.coltec.e02activity I/InstantRun: starting instant run server: is main process
+03-07 17:02:47.235 6903-6903/br.ufmg.coltec.e02activity I/br.ufmg.coltec.e02activity.MainActivity: onCreate
+03-07 17:02:47.321 6903-6903/br.ufmg.coltec.e02activity I/br.ufmg.coltec.e02activity.MainActivity: onStart
+03-07 17:02:47.325 6903-6903/br.ufmg.coltec.e02activity I/br.ufmg.coltec.e02activity.MainActivity: onResume
+03-07 17:02:47.332 6903-6920/br.ufmg.coltec.e02activity D/OpenGLRenderer: HWUI GL Pipeline
+                                                                          
+                                                                          [ 03-07 17:02:47.381  6903: 6920 D/         ]
+                                                                          HostConnection::get() New Host Connection established 0x943ef180, tid 6920
+03-07 17:02:47.388 6903-6920/br.ufmg.coltec.e02activity I/zygote: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+03-07 17:02:47.388 6903-6920/br.ufmg.coltec.e02activity I/OpenGLRenderer: Initialized EGL, version 1.4
+03-07 17:02:47.388 6903-6920/br.ufmg.coltec.e02activity D/OpenGLRenderer: Swap behavior 1
+03-07 17:02:47.390 6903-6920/br.ufmg.coltec.e02activity W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+03-07 17:02:47.390 6903-6920/br.ufmg.coltec.e02activity D/OpenGLRenderer: Swap behavior 0
+03-07 17:02:47.396 6903-6920/br.ufmg.coltec.e02activity D/EGL_emulation: eglCreateContext: 0xa4a7d800: maj 2 min 0 rcv 2
+03-07 17:02:47.462 6903-6920/br.ufmg.coltec.e02activity D/EGL_emulation: eglMakeCurrent: 0xa4a7d800: ver 2 0 (tinfo 0xa5c98b90)
+03-07 17:02:47.523 6903-6920/br.ufmg.coltec.e02activity D/EGL_emulation: eglMakeCurrent: 0xa4a7d800: ver 2 0 (tinfo 0xa5c98b90)
+03-07 17:02:47.616 6903-6903/br.ufmg.coltec.e02activity I/AssistStructure: Flattened final assist data: 1932 bytes, containing 1 windows, 6 views
+03-07 17:02:59.671 6903-6908/br.ufmg.coltec.e02activity I/zygote: Do partial code cache collection, code=29KB, data=22KB
+03-07 17:02:59.671 6903-6908/br.ufmg.coltec.e02activity I/zygote: After code cache collection, code=29KB, data=22KB
+03-07 17:02:59.671 6903-6908/br.ufmg.coltec.e02activity I/zygote: Increasing code cache capacity to 128KB
+03-07 17:03:03.781 6903-6908/br.ufmg.coltec.e02activity I/zygote: Do partial code cache collection, code=52KB, data=53KB
+03-07 17:03:03.781 6903-6908/br.ufmg.coltec.e02activity I/zygote: After code cache collection, code=52KB, data=53KB
+03-07 17:03:03.781 6903-6908/br.ufmg.coltec.e02activity I/zygote: Increasing code cache capacity to 256KB
+03-07 17:03:09.986 6903-6903/br.ufmg.coltec.e02activity I/br.ufmg.coltec.e02activity.MainActivity: onPause
+03-07 17:03:10.006 6903-6903/br.ufmg.coltec.e02activity I/br.ufmg.coltec.e02activity.Main2Activity: onCreate
+03-07 17:03:10.017 6903-6903/br.ufmg.coltec.e02activity I/br.ufmg.coltec.e02activity.Main2Activity: onStart
+03-07 17:03:10.019 6903-6903/br.ufmg.coltec.e02activity I/br.ufmg.coltec.e02activity.Main2Activity: onResume
+03-07 17:03:10.144 6903-6920/br.ufmg.coltec.e02activity D/EGL_emulation: eglMakeCurrent: 0xa4a7d800: ver 2 0 (tinfo 0xa5c98b90)
+03-07 17:03:10.171 6903-6920/br.ufmg.coltec.e02activity D/EGL_emulation: eglMakeCurrent: 0xa4a7d800: ver 2 0 (tinfo 0xa5c98b90)
+03-07 17:03:10.276 6903-6920/br.ufmg.coltec.e02activity D/EGL_emulation: eglMakeCurrent: 0xa4a7d800: ver 2 0 (tinfo 0xa5c98b90)
+03-07 17:03:10.299 6903-6920/br.ufmg.coltec.e02activity D/EGL_emulation: eglMakeCurrent: 0xa4a7d800: ver 2 0 (tinfo 0xa5c98b90)
+03-07 17:03:10.382 6903-6920/br.ufmg.coltec.e02activity D/EGL_emulation: eglMakeCurrent: 0xa4a7d800: ver 2 0 (tinfo 0xa5c98b90)
+03-07 17:03:10.384 6903-6920/br.ufmg.coltec.e02activity D/OpenGLRenderer: endAllActiveAnimators on 0x94448380 (RippleDrawable) with handle 0xa5c8df70
+03-07 17:03:10.392 6903-6920/br.ufmg.coltec.e02activity D/EGL_emulation: eglMakeCurrent: 0xa4a7d800: ver 2 0 (tinfo 0xa5c98b90)
+03-07 17:03:10.565 6903-6903/br.ufmg.coltec.e02activity I/br.ufmg.coltec.e02activity.MainActivity: onStop
+
