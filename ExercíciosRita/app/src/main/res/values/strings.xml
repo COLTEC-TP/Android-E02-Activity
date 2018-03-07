@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android-E02-Activity</string>
+    <string name="title_activity_after_login">afterLogin</string>
+</resources>
