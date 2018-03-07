@@ -24,7 +24,13 @@ public class MainActivity extends DebugActivity {
             public void onClick(View view) {
                 if (login.getText().toString().equals("admin") && senha.getText().toString().equals("admin123")) {
                     Intent intent = new Intent(MainActivity.this, SegundaTela.class);
+                    //Bundle de Dados - Login
+                    Bundle args = new Bundle();
+                    args.putCharSequence("login", login.getText().toString());
+                    intent.putExtras(args);
+                    //Alternação entre telas
                     startActivity(intent);
+
                 }
                 else{
                     Toast.makeText(MainActivity.this, "Dados Incorretos", Toast.LENGTH_SHORT).show();
