@@ -1,0 +1,6 @@
+03-07 13:14:31.929 3871-3912/br.ufmg.coltec.ciclo_vida W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+03-07 13:14:32.027 3871-3871/br.ufmg.coltec.ciclo_vida W/art: Before Android 4.1, method int android.support.v7.widget.ListViewCompat.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+03-07 13:16:53.374 3871-3871/br.ufmg.coltec.ciclo_vida E/log: do cachu
+03-07 13:16:53.378 3871-3871/br.ufmg.coltec.ciclo_vida I/MainActivity: Login feito Incorretamente.
+03-07 13:16:55.381 3871-3912/br.ufmg.coltec.ciclo_vida E/Surface: getSlotFromBufferLocked: unknown buffer: 0xaa279f00
+

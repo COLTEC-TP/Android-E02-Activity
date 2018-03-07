@@ -1,0 +1,6 @@
+03-07 13:18:26.483 3989-3989/br.ufmg.coltec.ciclo_vida W/art: Before Android 4.1, method int android.support.v7.widget.ListViewCompat.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+03-07 13:18:36.685 3989-3989/br.ufmg.coltec.ciclo_vida E/log: do cachu
+                                                              
+                                                              [ 03-07 13:18:36.689  3989: 3989 I/         ]
+                                                              Login feito Corretamente.
+03-07 13:18:37.532 3989-4033/br.ufmg.coltec.ciclo_vida E/Surface: getSlotFromBufferLocked: unknown buffer: 0xaa01d8c0
