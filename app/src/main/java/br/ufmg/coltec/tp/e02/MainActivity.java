@@ -25,6 +25,9 @@ public class MainActivity extends DebugActivity {
             public void onClick(View v) {
                 if (Login.getText().toString().equals("admin") && Senha.getText().toString().equals("admin123")){
                     Intent intent = new Intent(MainActivity.this, SegundaTela.class);
+                    Bundle args = new Bundle();
+                    args.putCharSequence("name", Login.getText().toString());
+                    intent.putExtras(args);
                     startActivity(intent);
                 }
                 else{
