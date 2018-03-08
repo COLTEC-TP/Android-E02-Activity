@@ -1,0 +1,8 @@
+03-08 10:35:52.021 9910-9910/com.example.a2016951707.androide02activity I/logado: Activity inicializado!!
+03-08 10:35:52.038 9910-9910/com.example.a2016951707.androide02activity I/Não logado: Login feito incorretamente
+03-08 10:35:52.039 9910-9910/com.example.a2016951707.androide02activity I/onPause: onPause acesso
+03-08 10:35:52.087 9910-9910/com.example.a2016951707.androide02activity I/OnCreate: OnCreate acesso
+03-08 10:35:52.113 9910-9910/com.example.a2016951707.androide02activity I/onStart: onStar acesso
+03-08 10:35:52.113 9910-9910/com.example.a2016951707.androide02activity I/onResume: onResume acesso
+03-08 10:35:52.216 9910-9953/com.example.a2016951707.androide02activity D/OpenGLRenderer: endAllActiveAnimators on 0xb9233440 (RippleDrawable) with handle 0xb832ae68
+03-08 10:35:52.596 9910-9910/com.example.a2016951707.androide02activity I/onStop: onStop acesso
