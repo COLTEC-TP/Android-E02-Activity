@@ -20,7 +20,5 @@ public class tela2 extends debugActivity {
         lblMessage.setText("Email:" + email);
         TextView lblMessage2 = findViewById(R.id.mostrarSenha);
         lblMessage2.setText("Email:" + senha);
-
-
     }
 }
