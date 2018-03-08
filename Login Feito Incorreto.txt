@@ -1,0 +1,4 @@
+03-08 10:38:36.172 9910-9910/com.example.a2016951707.androide02activity I/Não logado: Login feito incorretamente
+03-08 10:38:36.288 9910-9953/com.example.a2016951707.androide02activity V/RenderScript: 0xb92a9e40 Launching thread(s), CPUs 4
+
+03-08 10:39:01.669 9910-9910/com.example.a2016951707.androide02activity I/Não logado: Campos em branco
