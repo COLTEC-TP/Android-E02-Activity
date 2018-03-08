@@ -1,0 +1,1 @@
+03-08 17:52:16.783 1416-1416/br.ufmg.coltec.login I/tag: Não Logou
