@@ -1,0 +1,17 @@
+﻿03-03 07:46:44.155 1673-1673/? I/DebugActivity: .MainActivity Método onCreate() foi chamado.
+03-03 07:46:44.269 1673-1673/? I/DebugActivity: .MainActivity Método onStart() foi chamado.
+03-03 07:46:44.272 1673-1673/? I/DebugActivity: .MainActivity Método onResume() foi chamado.
+03-03 07:47:35.297 1673-1673/? I/MainActivity: Login sucedido
+03-03 07:47:35.320 1673-1673/? I/DebugActivity: .MainActivity Método onPause() foi chamado.
+03-03 07:47:35.369 1673-1673/? I/DebugActivity: .WelcomeActivity Método onCreate() foi chamado.
+03-03 07:47:35.397 1673-1673/? I/DebugActivity: .WelcomeActivity Método onStart() foi chamado.
+03-03 07:47:35.397 1673-1673/? I/DebugActivity: .WelcomeActivity Método onResume() foi chamado.
+03-03 07:47:36.335 1673-1673/? I/DebugActivity: .MainActivity Método onStop() foi chamado.
+"Apertei o botão de voltar do emulador"
+03-03 07:48:12.857 1673-1673/? I/DebugActivity: .WelcomeActivity Método onPause() foi chamado.
+03-03 07:48:12.862 1673-1673/? I/DebugActivity: .MainActivity Método onRestart() foi chamado.
+03-03 07:48:12.864 1673-1673/? I/DebugActivity: .MainActivity Método onStart() foi chamado.
+03-03 07:48:12.864 1673-1673/? I/DebugActivity: .MainActivity Método onResume() foi chamado.
+03-03 07:48:14.032 1673-1673/? I/DebugActivity: .WelcomeActivity Método onStop() foi chamado.
+03-03 07:48:14.032 1673-1673/? I/DebugActivity: .WelcomeActivity Método onDestroy() foi chamado.
+03-03 07:48:17.695 1673-1673/? I/MainActivity: Senha ou email incorreto
