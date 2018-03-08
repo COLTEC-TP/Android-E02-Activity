@@ -1,0 +1,23 @@
+
+																	LOGIN CORRETO
+
+
+03-08 10:36:56.390 9502-9502/br.ufmg.coltec.tp.e02 W/art: Before Android 4.1, method android.graphics.PorterDuffColorFilter android.support.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+                                                          
+                                                          [ 03-08 10:36:56.740  9502: 9502 I/         ]
+                                                          OnCreate Ativado
+
+03-08 10:36:56.796 9502-9502/br.ufmg.coltec.tp.e02 I/br.ufmg.coltec.tp.e02.MainActivity: OnStart Ativado
+03-08 10:36:56.805 9502-9502/br.ufmg.coltec.tp.e02 I/br.ufmg.coltec.tp.e02.MainActivity: OnResume Ativado
+03-08 10:37:31.310 9502-9502/br.ufmg.coltec.tp.e02 I/br.ufmg.coltec.tp.e02.MainActivity: OnStop Ativado
+03-08 10:38:31.050 9502-9502/br.ufmg.coltec.tp.e02 I/br.ufmg.coltec.tp.e02.SecondActivity: OnPause Ativado
+03-08 10:38:31.092 9502-9502/br.ufmg.coltec.tp.e02 I/br.ufmg.coltec.tp.e02.SecondActivity: OnStop Ativado
+03-08 10:38:34.547 9502-9502/br.ufmg.coltec.tp.e02 I/br.ufmg.coltec.tp.e02.SecondActivity: OnRestart Ativado
+03-08 10:38:34.574 9502-9502/br.ufmg.coltec.tp.e02 I/br.ufmg.coltec.tp.e02.SecondActivity: OnStart Ativado
+03-08 10:38:34.587 9502-9502/br.ufmg.coltec.tp.e02 I/br.ufmg.coltec.tp.e02.SecondActivity: OnResume Ativado
+
+
+																LOGIN INCORRETO
+
+03-08 10:40:54.945 10266-10266/br.ufmg.coltec.tp.e02 I/br.ufmg.coltec.tp.e02.MainActivity: OnStart Ativado
+03-08 10:40:54.960 10266-10266/br.ufmg.coltec.tp.e02 I/br.ufmg.coltec.tp.e02.MainActivity: OnResume Ativado
