@@ -10,7 +10,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 import android.util.Log;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends DebugActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
