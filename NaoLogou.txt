@@ -1,0 +1,1 @@
+03-08 10:28:09.234 676-676/br.ufmg.coltec.exerciciologin I/Não Logado: Usuário não logou
