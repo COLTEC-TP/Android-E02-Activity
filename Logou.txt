@@ -1,0 +1,8 @@
+03-08 11:43:16.774 27451-27451/br.ufmg.coltec.login I/tag: Logou
+03-08 11:43:16.777 27451-27451/br.ufmg.coltec.login I/onPause: Pause
+03-08 11:43:16.830 27451-27451/br.ufmg.coltec.login I/onCreate: Criado
+03-08 11:43:16.896 27451-27451/br.ufmg.coltec.login I/onStart: Start
+03-08 11:43:16.899 27451-27451/br.ufmg.coltec.login I/onResume: Interface exibida
+03-08 11:43:17.065 27451-27480/br.ufmg.coltec.login D/OpenGLRenderer: endAllActiveAnimators on 0x9ea0e580 (RippleDrawable) with handle 0x8c207320
+03-08 11:43:17.355 27451-27451/br.ufmg.coltec.login I/onStop: Stop
+
