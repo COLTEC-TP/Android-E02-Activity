@@ -1,0 +1,7 @@
+03-08 10:25:00.242 32404-32404/br.ufmg.coltec.exerciciologin I/Logado: Usuário logou
+03-08 10:25:00.262 32404-32404/br.ufmg.coltec.exerciciologin I/onPause: onPause ON
+03-08 10:25:00.284 32404-32404/br.ufmg.coltec.exerciciologin I/OnCreate: OnCreate ON
+03-08 10:25:00.302 32404-32404/br.ufmg.coltec.exerciciologin I/onStart: onStart ON
+03-08 10:25:00.305 32404-32404/br.ufmg.coltec.exerciciologin I/onResume: onResume ON
+03-08 10:25:00.408 32404-32441/br.ufmg.coltec.exerciciologin D/OpenGLRenderer: endAllActiveAnimators on 0x9eac3a00 (RippleDrawable) with handle 0x8cbd16f0
+03-08 10:25:00.746 32404-32404/br.ufmg.coltec.exerciciologin I/onStop: onStop ON
