@@ -1,0 +1,4 @@
+03-08 10:24:36.324 11448-11448/com.example.a2016952860.e02 E/tag: Email ou senha incorreto
+
+03-08 10:24:54.626 11448-11448/com.example.a2016952860.e02 I/tag: Login efetuado com sucesso!
+
