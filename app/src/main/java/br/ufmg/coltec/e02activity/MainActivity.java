@@ -29,6 +29,12 @@ public class MainActivity extends DebugActivity {
                     public void onClick(View view) {
                         if(user.getText().toString().equals(userName) && pass.getText().toString().equals(password)){
                             Intent intent = new Intent(MainActivity.this,Main2Activity.class);
+
+                            //passar o username por parametro
+                            Bundle args = new Bundle();
+                            args.putCharSequence("name", user.getText().toString());
+                            intent.putExtras(args);
+
                             startActivity(intent);
                         }
                         else{
