@@ -1,0 +1,14 @@
+03-08 22:51:21.637 3774-3774/br.ufmg.coltec.tp.e02 I/InstantRun: starting instant run server: is main process
+03-08 22:51:21.659 3774-3774/br.ufmg.coltec.tp.e02 I/Activity: OnCreate
+03-08 22:51:21.689 3774-3774/br.ufmg.coltec.tp.e02 I/Activity: OnStart
+03-08 22:51:21.692 3774-3774/br.ufmg.coltec.tp.e02 I/Activity: OnResume
+03-08 22:51:21.764 3774-3790/br.ufmg.coltec.tp.e02 I/OpenGLRenderer: Initialized EGL, version 1.4
+03-08 22:51:21.764 3774-3790/br.ufmg.coltec.tp.e02 W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+03-08 22:51:25.678 3774-3774/br.ufmg.coltec.tp.e02 W/IInputConnectionWrapper: finishComposingText on inactive InputConnection
+03-08 22:51:29.308 3774-3774/br.ufmg.coltec.tp.e02 I/Login Realizado!: Passando para a próxima Activity
+03-08 22:51:29.327 3774-3774/br.ufmg.coltec.tp.e02 I/Activity: OnPause
+03-08 22:51:29.354 3774-3774/br.ufmg.coltec.tp.e02 I/Activity: OnCreate
+03-08 22:51:29.365 3774-3774/br.ufmg.coltec.tp.e02 I/Activity: OnStart
+03-08 22:51:29.368 3774-3774/br.ufmg.coltec.tp.e02 I/Activity: OnResume
+03-08 22:51:29.609 3774-3774/br.ufmg.coltec.tp.e02 W/IInputConnectionWrapper: finishComposingText on inactive InputConnection
+03-08 22:51:29.951 3774-3774/br.ufmg.coltec.tp.e02 I/Activity: OnStop
