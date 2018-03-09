@@ -1,0 +1,8 @@
+03-08 22:54:54.454 4006-4006/? I/InstantRun: starting instant run server: is main process
+03-08 22:54:54.470 4006-4006/? I/Activity: OnCreate
+03-08 22:54:54.479 4006-4006/? I/Activity: OnStart
+03-08 22:54:54.480 4006-4006/? I/Activity: OnResume
+03-08 22:54:54.511 4006-4022/? I/OpenGLRenderer: Initialized EGL, version 1.4
+03-08 22:54:54.511 4006-4022/? W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+03-08 22:55:03.817 4006-4006/br.ufmg.coltec.tp.e02 W/IInputConnectionWrapper: finishComposingText on inactive InputConnection
+03-08 22:55:05.846 4006-4006/br.ufmg.coltec.tp.e02 E/Login não realizado!: Dados incorretos
