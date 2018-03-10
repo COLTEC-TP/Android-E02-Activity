@@ -1,0 +1,6 @@
+03-10 22:55:54.107 3313-3313/deneribeiro10.github.io.activity E/LoginActivity: Empty field
+03-10 22:55:58.163 3313-3313/deneribeiro10.github.io.activity E/LoginActivity: Empty field
+03-10 22:56:00.040 3313-3313/deneribeiro10.github.io.activity E/LoginActivity: Empty field
+03-10 22:56:09.359 3313-3313/deneribeiro10.github.io.activity E/LoginActivity: Login failed
+03-10 22:56:10.929 3313-3313/deneribeiro10.github.io.activity E/LoginActivity: Login failed
+03-10 22:56:11.087 3313-3313/deneribeiro10.github.io.activity E/LoginActivity: Login failed
