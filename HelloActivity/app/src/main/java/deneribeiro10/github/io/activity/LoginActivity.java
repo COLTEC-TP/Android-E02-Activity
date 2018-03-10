@@ -36,6 +36,8 @@ public class LoginActivity extends DebugActivity {
                     // login ok
                     Intent goApp = new Intent(LoginActivity.this, AppActivity.class);
 
+                    Log.i(TAG, "Login ok");
+
                     // bundle
                     Bundle bund = new Bundle();
                     bund.putCharSequence("usuario", username.getText().toString());
