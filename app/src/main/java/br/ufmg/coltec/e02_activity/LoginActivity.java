@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 import static android.view.Gravity.TOP;
 
-public class LoginActivity extends AppCompatActivity {
+public class LoginActivity extends DebugActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
