@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="login_message">O login foi efetuado corretamente!!!</string>
+    <string name="user_txt">usuário</string>
+    <string name="senha_txt">senha</string>
+    <string name="btn_txt">clique após preencher os campos acima</string>
+    <string name="toast_txt">Dados incorretos</string>
+</resources>

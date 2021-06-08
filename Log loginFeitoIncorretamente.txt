@@ -1,0 +1,6 @@
+2021-06-07 23:32:21.890 26938-26938/br.ufmg.coltec.activity W/DebugActivity: Você clicou no botão
+2021-06-07 23:32:29.898 26938-26938/br.ufmg.coltec.activity D/DebugActivity: App inicializado
+2021-06-07 23:32:29.898 26938-26938/br.ufmg.coltec.activity I/DebugActivity: A Activity foi criada corretamente
+2021-06-07 23:32:33.104 26938-26938/br.ufmg.coltec.activity D/DebugActivity: App inicializado
+2021-06-07 23:32:33.105 26938-26938/br.ufmg.coltec.activity I/DebugActivity: A Activity foi criada corretamente
+2021-06-07 23:32:33.181 26938-26945/br.ufmg.coltec.activity I/coltec.activit: Compiler allocated 4MB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)

@@ -1,0 +1,1 @@
+2021-06-07 23:40:10.737 26938-26938/br.ufmg.coltec.activity W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@1fbccf2
