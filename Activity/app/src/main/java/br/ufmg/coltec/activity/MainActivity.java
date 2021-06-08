@@ -34,6 +34,10 @@ public class MainActivity extends DebugActivity {
             public void onClick(View v) {
                 if ((txt1.getText().toString().equals("admin") && txt2.getText().toString().equals("admin123"))) {
                     Intent intent = new Intent(MainActivity.this, LoginActivity.class);
+                    String textoStr = txt1.getText().toString();
+                    Bundle parametros = new Bundle();
+                    parametros.putString("texto", textoStr);
+                    intent.putExtras(parametros);
                     startActivity(intent);
                 } else {
                     Toast t = Toast.makeText(MainActivity.this, txt3.getText(), Toast.LENGTH_LONG);

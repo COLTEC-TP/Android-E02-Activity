@@ -6,13 +6,15 @@ import android.widget.TextView;
 
 public class LoginActivity extends DebugActivity {
 
-    TextView txt;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        txt = findViewById(R.id.login_txt);
+        Bundle parametros = this.getIntent().getExtras();
+        String textoStr = parametros.getString("texto");
+
+        TextView txtLogin = this.findViewById(R.id.login_txt);
+        txtLogin.setText(textoStr);
     }
 }
