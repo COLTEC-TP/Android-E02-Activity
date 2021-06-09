@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">E02</string>
+    <string name="app_name">E02-Activity</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="welcome">Bem vindo,</string>
+    <string name="toast">Usuário ou senha incorretos</string>
 </resources>

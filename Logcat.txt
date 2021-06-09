@@ -1,0 +1,22 @@
+Logcat
+
+==== Ao abrir o app ==========
+
+2021-06-09 15:09:44.250 8827-8827/br.ufmg.coltec.e02_activity D/DebugActivity: DebugActivity.onCreate(): LoginActivity
+2021-06-09 15:09:44.527 8827-8827/br.ufmg.coltec.e02_activity D/DebugActivity: DebugActivity.onStart(): LoginActivity
+2021-06-09 15:09:44.529 8827-8827/br.ufmg.coltec.e02_activity D/DebugActivity: DebugActivity.onResume(): LoginActivity
+
+==== Ao tentar logar com sem usuário, sem senha ou usuário/senha incorretos =======================
+
+2021-06-09 15:09:58.023 8827-8827/br.ufmg.coltec.e02_activity D/DebugActivity: DebugActivity.btnLogin.LoginActivity: Usuário ou senha incorretos
+2021-06-09 15:10:04.011 8827-8827/br.ufmg.coltec.e02_activity D/DebugActivity: DebugActivity.btnLogin.LoginActivity: Usuário ou senha incorretos
+2021-06-09 15:10:10.050 8827-8827/br.ufmg.coltec.e02_activity D/DebugActivity: DebugActivity.btnLogin.LoginActivity: Usuário ou senha incorretos
+
+==== Ao logar com usuário e senha corretas ================================
+
+2021-06-09 15:10:14.076 8827-8827/br.ufmg.coltec.e02_activity D/DebugActivity: DebugActivity.btnLogin.LoginActivity: Login realizado corretamente
+2021-06-09 15:10:14.096 8827-8827/br.ufmg.coltec.e02_activity D/DebugActivity: DebugActivity.onPause(): LoginActivity
+2021-06-09 15:10:14.123 8827-8827/br.ufmg.coltec.e02_activity D/DebugActivity: DebugActivity.onCreate(): MainActivity
+2021-06-09 15:10:14.150 8827-8827/br.ufmg.coltec.e02_activity D/DebugActivity: DebugActivity.onStart(): MainActivity
+2021-06-09 15:10:14.151 8827-8827/br.ufmg.coltec.e02_activity D/DebugActivity: DebugActivity.onResume(): MainActivity
+2021-06-09 15:10:14.712 8827-8827/br.ufmg.coltec.e02_activity D/DebugActivity: DebugActivity.onStop(): LoginActivity
