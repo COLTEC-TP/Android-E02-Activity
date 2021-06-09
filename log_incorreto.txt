@@ -1,0 +1,4 @@
+2021-06-04 12:14:13.558 19671-19671/br.ufmg.coltec.tp.e02 D/debugging: onCreate()
+2021-06-04 12:14:13.679 19671-19671/br.ufmg.coltec.tp.e02 D/debugging: onStart()
+2021-06-04 12:14:13.680 19671-19671/br.ufmg.coltec.tp.e02 D/debugging: onResume()
+2021-06-04 12:14:33.839 19671-19671/br.ufmg.coltec.tp.e02 D/debugging: log não realizado: Login ou senha não conferem
