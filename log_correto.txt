@@ -1,0 +1,9 @@
+2021-06-04 12:15:13.122 19778-19778/br.ufmg.coltec.tp.e02 D/debugging: onCreate()
+2021-06-04 12:15:13.235 19778-19778/br.ufmg.coltec.tp.e02 D/debugging: onStart()
+2021-06-04 12:15:13.237 19778-19778/br.ufmg.coltec.tp.e02 D/debugging: onResume()
+2021-06-04 12:15:25.406 19778-19778/br.ufmg.coltec.tp.e02 D/debugging: onPause()
+2021-06-04 12:15:25.420 19778-19778/br.ufmg.coltec.tp.e02 D/debugging: onCreate()
+2021-06-04 12:15:25.437 19778-19778/br.ufmg.coltec.tp.e02 D/debugging: log realizado com sucesso
+2021-06-04 12:15:25.440 19778-19778/br.ufmg.coltec.tp.e02 D/debugging: onStart()
+2021-06-04 12:15:25.441 19778-19778/br.ufmg.coltec.tp.e02 D/debugging: onResume()
+2021-06-04 12:15:26.002 19778-19778/br.ufmg.coltec.tp.e02 D/debugging: onStop()

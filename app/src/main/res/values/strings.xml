@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">E02</string>
+    <string name="txt_user">Usuário</string>
+    <string name="txt_pass">Senha</string>
+    <string name="edit_user">Digite o seu nome de usuário</string>
+    <string name="edit_pass">Digite a sua senha</string>
+    <string name="btn_submit">Entrar</string>
+    <string name="txt_welcome">Bem vindo!</string>
 </resources>
