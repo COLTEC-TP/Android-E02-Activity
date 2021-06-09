@@ -1,0 +1,10 @@
+2021-06-09 14:56:46.276 8640-8640/br.ufmg.coltec.e02activity D/DebugActivity: onCreate()
+2021-06-09 14:56:46.566 8640-8640/br.ufmg.coltec.e02activity D/DebugActivity: onStart()
+2021-06-09 14:56:46.589 8640-8640/br.ufmg.coltec.e02activity D/DebugActivity: onResume()
+2021-06-09 14:56:50.255 8640-8640/br.ufmg.coltec.e02activity D/DebugActivity: BtnLogin: Usuário ou senha incorreta
+2021-06-09 14:58:12.718 8640-8640/br.ufmg.coltec.e02activity D/DebugActivity: BtnLogin: Usuário e senha correta
+2021-06-09 14:58:12.728 8640-8640/br.ufmg.coltec.e02activity D/DebugActivity: onPause()
+2021-06-09 14:58:12.748 8640-8640/br.ufmg.coltec.e02activity D/DebugActivity: onCreate()
+2021-06-09 14:58:12.818 8640-8640/br.ufmg.coltec.e02activity D/DebugActivity: onStart()
+2021-06-09 14:58:12.819 8640-8640/br.ufmg.coltec.e02activity D/DebugActivity: onResume()
+2021-06-09 14:58:13.422 8640-8640/br.ufmg.coltec.e02activity D/DebugActivity: onStop()

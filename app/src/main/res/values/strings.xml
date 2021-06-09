@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">E02</string>
+    <string name="app_name">E02Activity</string>
+    <string name="toast">Usuário ou senha incorreta</string>
 </resources>
