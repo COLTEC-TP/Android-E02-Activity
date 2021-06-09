@@ -8,6 +8,10 @@ import android.util.Log;
 public class DebugActivity extends AppCompatActivity {
     private static final String CLASS_NAME = DebugActivity.class.getSimpleName();
 
+    void createLog(String local, String msg) {
+        Log.d(CLASS_NAME, "DebugActivity." + local + "." + getClass().getSimpleName() + ": " + msg);
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         Log.d(CLASS_NAME, "DebugActivity.onCreate(): " + getClass().getSimpleName());

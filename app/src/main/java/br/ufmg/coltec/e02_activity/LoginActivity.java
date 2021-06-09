@@ -23,12 +23,14 @@ public class LoginActivity extends DebugActivity {
 
         btnLogin.setOnClickListener(view -> {
             if(login.getText().toString().equals("admin") && password.getText().toString().equals("admin123")) {
-                    Intent intent = new Intent(LoginActivity.this, MainActivity.class);
-                    Bundle args = new Bundle();
-                    args.putCharSequence("name", login.getText().toString());
-                    intent.putExtras(args);
-                    startActivity(intent);
+                createLog("btnLogin", "Login realizado corretamente");
+                Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+                Bundle args = new Bundle();
+                args.putCharSequence("name", login.getText().toString());
+                intent.putExtras(args);
+                startActivity(intent);
             }else{
+                createLog("btnLogin", "Usuário ou senha incorretos");
                 Toast toast = Toast.makeText(LoginActivity.this, R.string.toast, Toast.LENGTH_LONG);
                 toast.setGravity(TOP, 0, 200);
                 toast.show();
